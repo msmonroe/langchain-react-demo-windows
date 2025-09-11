@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Metformin",
+    "description": "Used to treat type 2 diabetes. Side effects include nausea and diarrhea."
+  },
+  {
+    "name": "Enbrel",
+    "description": "Used for autoimmune diseases. May cause injection site reactions and increased risk of infections."
+  },
+  {
+    "name": "Atorvastatin",
+    "description": "Used to lower cholesterol. Common side effects: muscle pain, digestive issues."
+  }
+]
