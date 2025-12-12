@@ -1,14 +1,29 @@
 [
   {
     "name": "Metformin",
-    "description": "Used to treat type 2 diabetes. Side effects include nausea and diarrhea."
+    "indication": "First-line oral therapy for type 2 diabetes; improves insulin sensitivity and lowers hepatic glucose output.",
+    "side_effects": [
+      "nausea",
+      "diarrhea",
+      "metallic taste"
+    ]
   },
   {
     "name": "Enbrel",
-    "description": "Used for autoimmune diseases. May cause injection site reactions and increased risk of infections."
+    "indication": "TNF inhibitor for autoimmune diseases such as rheumatoid arthritis, psoriatic arthritis, and plaque psoriasis.",
+    "side_effects": [
+      "injection site reactions",
+      "upper respiratory infections",
+      "increased risk of serious infections"
+    ]
   },
   {
     "name": "Atorvastatin",
-    "description": "Used to lower cholesterol. Common side effects: muscle pain, digestive issues."
+    "indication": "Statin used to lower LDL cholesterol and reduce cardiovascular risk.",
+    "side_effects": [
+      "muscle pain",
+      "digestive discomfort",
+      "elevated liver enzymes"
+    ]
   }
 ]

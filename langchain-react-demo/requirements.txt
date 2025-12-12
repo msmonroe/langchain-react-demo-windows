@@ -9,3 +9,4 @@ pydantic
 requests
 tiktoken
 python-dotenv
+pytest
